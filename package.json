@@ -1,0 +1,14 @@
+{
+  "name": "fullstact-cpading-practice",
+  "version": "1.0.0",
+  "description": "Full stack coding practice project",
+  "scripts": {
+    "start": "live-server --port=5500 --open=important tags.html",
+    "dev": "live-server --port=5500"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
+
+
